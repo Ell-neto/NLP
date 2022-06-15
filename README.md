@@ -1,4 +1,4 @@
-# PLN
+# NLP
 
 Processamento de Linguagem Natural
 
